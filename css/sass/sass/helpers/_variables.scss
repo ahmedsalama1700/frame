@@ -1,0 +1,39 @@
+$maxmobile:"(max-width:767px)";
+$maxsmall:"(max-width:991px)";
+$minsmall : "(min-width:768px)";
+$minmedim:"(min-width:992px)";
+$minlarge:"(min-width:1200px)";
+//  el zero sass
+
+
+$floatl: left;
+$floatr: right;
+
+
+$phone: 575.98px;
+$landscape: 767.98px;
+$tablets: 991.98px;
+$desktops:1199.98px;
+$Extra-large:1399.98px;
+
+
+$first-color: #ecdc00;
+$second-color: #160D27;
+/*
+
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width:$phone ) { ... }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: $landscape) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: $tablets) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: $desktops) { ... }
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: $Extra-large) { ... }
+
+*/
